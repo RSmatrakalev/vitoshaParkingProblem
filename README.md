@@ -27,4 +27,4 @@
 Резултата е карта която показва какви са зоните на паркиране като хийт карта.
 
 
-Линк към финалната страница 
+Линк към финалната страница: https://github.com/RSmatrakalev/vitoshaParkingProblem/blob/main/vitosha_parking_heatmap.html
